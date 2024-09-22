@@ -1,3 +1,3 @@
 # alqnisot.github.io
 
-A redirector for https://alqnisot.alqix.net 
+A redirector to [alqnisot.alqx.net](https://alqnisot.alqx.net)
